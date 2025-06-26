@@ -1,0 +1,3 @@
+[submodule "DroneDevKit"]
+	path = DroneDevKit
+	url = https://github.com/trietmt9/DroneDevKit.git
