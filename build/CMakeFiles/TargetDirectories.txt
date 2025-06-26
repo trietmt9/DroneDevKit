@@ -1,0 +1,3 @@
+/home/stephen/Documents/DroneDevKit/build/CMakeFiles/DroneDevKit.elf.dir
+/home/stephen/Documents/DroneDevKit/build/CMakeFiles/edit_cache.dir
+/home/stephen/Documents/DroneDevKit/build/CMakeFiles/rebuild_cache.dir
