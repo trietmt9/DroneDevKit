@@ -1,1 +1,0 @@
-arm-none-eabi-gcc CMakeFiles/DroneDevKit.elf.dir/Core/Src/main.c.o CMakeFiles/DroneDevKit.elf.dir/Core/Src/syscalls.c.o -o DroneDevKit.elf
