@@ -1,3 +1,6 @@
-[submodule "DroneDevKit"]
-	path = DroneDevKit
-	url = https://github.com/trietmt9/DroneDevKit.git
+[submodule "Drivers/STM32CubeF4"]
+	path = Drivers/STM32CubeF4
+	url = https://github.com/STMicroelectronics/STM32CubeF4
+[submodule "Drivers/STM32CubeF7"]
+	path = Drivers/STM32CubeF7
+	url = https://github.com/STMicroelectronics/STM32CubeF7
